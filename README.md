@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Kieu Quoc Viet 
-* Student ID: Yes, I'm-Vietnamese
+* Student Name: Phạm Công Duyệt
+* Student ID: 23BI14136
 
