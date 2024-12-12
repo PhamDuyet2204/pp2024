@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Phạm Công Duyệt
+* Student Name: Pham Cong Duyet
 * Student ID: 23BI14136
 
